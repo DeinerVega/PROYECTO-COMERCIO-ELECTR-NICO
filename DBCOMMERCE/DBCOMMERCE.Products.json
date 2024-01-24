@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64ed927361777d938ac3a7a4"
+  },
+  "Name": "Cerdo",
+  "Stock": 50,
+  "ExpiryDate": {
+    "$date": "2023-08-29T05:00:00.000Z"
+  },
+  "Category": "{\n  \"_id\": {\n    \"$oid\": \"64eda92a66162815de6e29f6\"\n  },\n  \"Name\": \"Proteina\"\n}\n"
+}]

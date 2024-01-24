@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "64ee2e3a5b7b32e37378f78c"
+  },
+  "Name": "Deiner",
+  "Age": 24,
+  "City": "Medellin",
+  "Adress": "Belen",
+  "Birthdate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  }
+}]

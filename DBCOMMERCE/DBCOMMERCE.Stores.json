@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "64ee320e5b7b32e37378f78f"
+  },
+  "Name": "Prueba",
+  "Adress": "Belen2",
+  "Record": "{\n  \"_id\": {\n    \"$oid\": \"64ee3102d0e9bd9d7857ec9f\"\n  },\n  \"BusinessName\": \"Cerdo\"\n}\n",
+  "Product": "{\n  \"_id\": {\n    \"$oid\": \"64ed927361777d938ac3a7a4\"\n  },\n  \"Name\": \"Cerdo\"\n}\n",
+  "User": null
+}]

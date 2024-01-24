@@ -1,0 +1,118 @@
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.exe
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.deps.json
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.runtimeconfig.json
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.runtimeconfig.dev.json
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.pdb
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.Views.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.Views.pdb
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.AssemblyReference.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.AssemblyInfoInputs.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.AssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorAssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\E-COMMERCE.StaticWebAssets.Manifest.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\E-COMMERCE.StaticWebAssets.xml
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-COMMERCE.styles.css
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.TagHelpers.input.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.TagHelpers.output.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorCoreGenerate.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorTargetAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorTargetAssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.Views.pdb
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.CopyComplete
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.dll
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.pdb
+C:\Users\vdein\Downloads\DEINER VEGA\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.genruntimeconfig.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.exe
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.deps.json
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.runtimeconfig.json
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.runtimeconfig.dev.json
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.pdb
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.Views.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\E-COMMERCE.Views.pdb
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.AssemblyInfoInputs.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.AssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.CoreCompileInputs.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorAssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\E-COMMERCE.StaticWebAssets.Manifest.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\E-COMMERCE.StaticWebAssets.xml
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-COMMERCE.styles.css
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.TagHelpers.input.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.TagHelpers.output.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorCoreGenerate.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorTargetAssemblyInfo.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.RazorTargetAssemblyInfo.cs
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.Views.pdb
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.CopyComplete
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.dll
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.pdb
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.genruntimeconfig.cache
+C:\Users\vdein\Downloads\DEINER VEGA - copia\E-COMMERCE\E-COMMERCE\obj\Debug\netcoreapp3.1\E-COMMERCE.csproj.AssemblyReference.cache
